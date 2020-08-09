@@ -1,0 +1,15 @@
+{
+  "name": "pawlektron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --watch * --exec electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
